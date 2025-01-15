@@ -1,0 +1,37 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "As a Blockchain, AI, and Webflow expert with over 8 years of experience in developing beautiful and functional websites and web apps, I am committed to providing my clients with the highest quality work with my skills on GPT-4, LlamaIndex, OpenAI, dApps, DEX, Defi and websites modern frontend and backend frameworks. I am also confident in managing websites using DevOps Tools like Docker, Terraform, Jenkins on various cloud services. Let's collaborate and craft something extraordinary together."
+        },
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Como experto en blockchain, inteligencia artificial y Webflow con más de 8 años de experiencia en el desarrollo de sitios web y aplicaciones web hermosos y funcionales, me comprometo a brindarles a mis clientes un trabajo de la más alta calidad con mis habilidades en GPT-4, LlamaIndex, OpenAI, dApps, DEX, Defi y sitios web con marcos de frontend y backend modernos. También tengo confianza en la gestión de sitios web utilizando herramientas DevOps como Docker, Terraform, Jenkins en varios servicios en la nube. Colaboremos y creemos algo extraordinario juntos."
+        },
+        "fr": {
+            "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
+            "welcomeShort": "Bienvenue!",
+            "bio": "En tant qu'expert Blockchain, IA et Webflow avec plus de 8 ans d'expérience dans le développement de sites Web et d'applications Web beaux et fonctionnels, je m'engage à fournir à mes clients un travail de la plus haute qualité grâce à mes compétences sur GPT-4, LlamaIndex, OpenAI, dApps, DEX, Defi et les frameworks frontend et backend modernes des sites Web. Je suis également confiant dans la gestion de sites Web à l'aide d'outils DevOps tels que Docker, Terraform, Jenkins sur divers services cloud. Collaborons et créons quelque chose d'extraordinaire ensemble."
+        },
+        "zh": {
+            "welcome": "欢迎来到我的<span class='text-primary'>简历</span>！",
+            "welcomeShort": "欢迎!",
+            "bio": "身為區塊鏈、人工智慧和Webflow 專家，在開發美觀且實用的網站和Web 應用程式方面擁有超過8 年的經驗，我致力於利用我在GPT-4、LlamaIndex、OpenAI、dApps 方面的技能為我的客戶提供最高品質的工作、DEX、Defi 和網站現代前端和後端框架。我也有信心在各種雲端服務上使用 Docker、Terraform、Jenkins 等 DevOps 工具來管理網站。讓我們合作並共同創造一些非凡的東西。"
+        }
+    },
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+            "@link{profile.contact.facebook}",
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
