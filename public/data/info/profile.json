@@ -1,0 +1,84 @@
+{
+    "name": "Dimitrijie Vulovic",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/Dimitrijevulovic'>Dimitrijie Vulovic</a></strong>",
+            "role": "Senior Blockchain | Generative-AI | Webflow developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/Dimitrijevulovic'>Dimitrijie Vulovic</a></strong>",
+            "role": "Desarrollador sénior de blockchain | IA generativa | Webflow"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/Dimitrijevulovic'>Dimitrijie Vulovic</a></strong>",
+            "role": "Développeur senior Blockchain | Generative-AI | Webflow"
+        },
+
+        "zh": {
+            "credits": "设计：<strong><a class='light' href='https://github.com/Dimitrijevulovic'>Dimitrijie Vulovic</a></strong>",
+            "role": "資深區塊鏈 |生成式人工智慧 |網路串流開發者"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "9. januara 41",
+            "valueShort": "Zrenjanin , VO 23000",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "dimitrijevulovicwebflow@gmail.com",
+            "valueShort": "dimitrijevulovicwebflow@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:dimitrijevulovicwebflow@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Dimitrijie Vulovic",
+            "valueShort": "D. Vulovic",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@dimitrijie.vulovic.official",
+            "valueShort": "@dimitrijie.Vulovic.official",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@dimitrijie.vulovic.official",
+            "valueShort": "@dimitrijie.vulovic.official",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@dimitrijie.vulovic.official",
+            "valueShort": "@dimitrijie.vulovic.official",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+381 695115121",
+            "valueShort": "+381 695115121",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:695115121"
+        }
+    }
+}
